@@ -1,0 +1,5 @@
+
+sympy==1.9
+ecdsa==0.18.0
+requests==2.31.0
+bitcoinlib==0.6.0  # bitcoin.core requires this library as a dependency
