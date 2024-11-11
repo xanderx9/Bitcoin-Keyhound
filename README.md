@@ -88,4 +88,5 @@ For issues or suggestions, feel free to open an issue in the GitHub repository.
 
 This project is licensed under the MIT License. For details, see the `LICENSE` file.
 
----
+## Donate: 
+**BTC**: `1GZdNtQYa2DN4b3hLekrYErv9c8WLqbBTm`
